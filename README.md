@@ -16,7 +16,7 @@ python server.py (localhost:5000)
 Model
 MNIST veri kümesini kullanarak el yazısı tanıma
 CNN mimarisi kullanıldı
-doğrulamada oranı %98
+doğrulama oranı %98
 
 Web Uygulaması
 Web çerçevesi için Flask
