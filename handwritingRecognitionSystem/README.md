@@ -1,7 +1,7 @@
 ### Model
 - Handwritten recognition using MNIST dataset
 - The CNN architecture was used
-- 9% of accuracy at validation
+- 98% of accuracy at validation
 
 ### Web Application
 - Flask for web framework
