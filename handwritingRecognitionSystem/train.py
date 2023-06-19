@@ -111,7 +111,6 @@ if __name__ == "__main__":
     # Örnek tahminler
 
     device = torch.device("cuda:0" if opt.use_gpu and torch.cuda.is_available() else "cpu")
-    # print("device:", device)
 
     model = Model().to(device)
     model.load_state_dict(torch.load(SAVE_MODEL_PATH))
